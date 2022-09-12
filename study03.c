@@ -1,8 +1,9 @@
 #include <stdio.h>
 int int main()
 {
-	int a = 3;
-	int b = 5;
+	int a = 30;
+	int b = 50;
 	printf("%d",a+b);
+	printf("%d",a-b);
 	return 0;
 }
